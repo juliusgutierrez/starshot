@@ -16,3 +16,9 @@ User has to be able to see an employees list in a table.
 
 ### Deployment 
 * can deploy in Wildfly or Tomcat server
+
+### Login
+- when demo.war is deployed, you can now go to the URL e.g localhost:8080/demo/
+- use the credentials below : 
+username : test
+password : test
